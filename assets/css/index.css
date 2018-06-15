@@ -118,12 +118,12 @@ background-position: center;
 }
 
 .logo{
+	width: 30%;
+	margin-top:80px ;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
 
-	position: absolute;
-	top: 20%;
-	left: 40%;
-	width: 20%;
-	margin-bottom: 5%;
 }
 
 .ourwork{
@@ -155,12 +155,7 @@ background-position: center;
 }
 
 
-.logo{
 
-	margin-top: 10px;
-	margin-left: 50px;
-
-}
 
 .meaning{
 	padding-bottom: 10px;
@@ -188,9 +183,7 @@ background-position: center;
 	text-align: center;
 	color: white;
 	font-size: 28px;
-	position: absolute;
-	top: 39vh;
-	left: 24px;
+
 	color: white;
 }
 
@@ -231,15 +224,7 @@ background-position: center;
 
 @media screen and (max-width: 400px) {
 
-.logo{
 
-	position: absolute;
-	top: 70px;
-	left: 30px;
-	margin-top: -50px;
-	width: 220px;
-
-}
 
 .Name{
 	color: red;
@@ -313,12 +298,7 @@ background-position: center;
 
 @media screen and (max-width: 800px) {
 
-.logo{
 
-	position: absolute;
-	left: 90px;
-	width: 200px;
-}
 
 .meaning{
 font-size: 50px;
@@ -342,7 +322,7 @@ background-position: center;
 	font-size: 28px;
 	margin-top: -150px;
 	color: white;
-	margin-left: -65px;
+	margin-left: 105px;
 }
 	
 #butt{
@@ -374,12 +354,6 @@ background-position: center;
 
 @media screen and (max-width: 950px) {
 
-.logo{
-
-	margin-top: 10px;
-	margin-left: 60px;
-
-}
 
 .meaning{
 
