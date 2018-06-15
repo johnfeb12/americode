@@ -1,0 +1,85 @@
+.header {
+	background-image: url("../images/lights.jpg");
+	/* opacity:  ; */
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: 100% auto;
+	position: relative;
+	height: 110vh;
+	margin-bottom: 25px;
+}
+
+.Name {
+	color: rgb(140, 255, 1);
+	margin-top: 0px;
+	padding-left: 10vh;
+	padding-top: 10px;
+	font-size: 28px;
+}
+
+.services {
+	background-color: GoldenRod;
+	font-family: serif;
+	margin-top: 5%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
+.devlopment {
+	background-image: url("../images/laptop2.png");
+	background-position: center;
+	margin-bottom: 0px;
+	padding-bottom: 10%;
+}
+
+.advertising {
+	background-image: url("../images/hi.jpg");
+	margin-top: 0px;
+	padding-bottom: 10%;
+}
+
+.maintenance {
+	background-image: url("../images/mait.jpg");
+	color: white;
+	padding-bottom: 10%;
+	margin-bottom: -100px;
+}
+
+#contact-form,
+#our-map {
+	margin-top: 3%;
+	margin-left: 1%;
+}
+
+#our-map {
+	margin-top: 3%;
+	border-left: solid gray 2px;
+	padding-left: 4%;
+}
+
+#query-submit {
+	float: right;
+}
+
+.msg {
+	border: rgb(68, 235, 18) solid 2px;
+	margin-top: 5%;
+}
+
+#msg-head {
+	border: rgb(243, 11, 11) solid 2px;
+}
+
+#msg-body {
+	border: rgb(44, 13, 219) solid 2px;
+}
+
+#msg-disp {
+	border: solid 2px saddlebrown;
+	border-radius: 0.5rem;
+}
+
+#checkMail:active {
+border: solid 2px grey;
+}
